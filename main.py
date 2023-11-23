@@ -1,5 +1,5 @@
-from funcs import add_numbers
+from funcs import ad_numbers
 
 if __name__ == "__main__":
-    result = add_numbers(5, 3)
+    result = ad_numbers(5, 3)
     print(result)
